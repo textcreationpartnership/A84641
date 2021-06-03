@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stemma sacrum, the royal progeny delineated, and with some notes explained, shewing His Sacred Majesties royal and lawful descent to his crown and kingdoms, from all the kings that ever reigned in this nation. / By Giles Fleming, rector of Waddingworth, in the diocess and county of Lincoln.</title>
+            <author>Fleming, Giles, d. 1665.</author>
+         </titleStmt>
+         <extent>Approx. 54KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84641</idno><idno type="EEBO-CITATION">99866048</idno>
+  <idno type="VID">118308</idno>
+  <idno type="EEBO-PROQUEST">2240905328</idno>
+  
+            <idno type="STC">Wing F1261</idno>
+            <idno type="STC">Thomason E1914_1</idno>
+            <idno type="STC">ESTC R20697</idno>
+            <idno type="PROQUEST">99866048</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866048e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118308)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 237:E1914[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stemma sacrum, the royal progeny delineated, and with some notes explained, shewing His Sacred Majesties royal and lawful descent to his crown and kingdoms, from all the kings that ever reigned in this nation. / By Giles Fleming, rector of Waddingworth, in the diocess and county of Lincoln.</title>
+                  <author>Fleming, Giles, d. 1665.</author>
+               </titleStmt>
+               <extent>[14], 48 p. : geneal. table (folded).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Gibbs, at the golden Ball in Chancery-lane.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First ed. Cf. BM.</note>
+                  <note>Annotation on Thomason copy: "July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118308:1"/>
+            <p>
+               <hi>STEMMA SACRƲM,</hi> THE Royal Progeny Delineated, and with some Notes explained, Shewing His SACRED MAJESTIES Royal and Lawful Descent to His Crown and Kingdoms, from all the Kings that ever reigned in this NATION.</p>
+            <p>By <hi>Giles Fleming,</hi> Rector of <hi>Wadding-worth,</hi> in the Diocess and County of <hi>LINCOLN.</hi>
+            </p>
+            <q>
+               <p>Blessed art thou O Land, when thy King is the Son of the Nobles, <bibl>
+                     <hi>Eccles. 10.7.</hi>
+                  </bibl>
+               </p>
+               <p>And the remnant that is escaped of the house of Ju<g ref="char:EOLhyphen"/>dah, shall yet again take root downward, and bear fruit upward, <bibl>
+                     <hi>2 Kings 19.30.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Gibbs,</hi> at the golden Ball in <hi>Chancery-lane.</hi> 1660.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:118308:2"/>
+            <pb facs="tcp:118308:2"/>
+            <p>
+               <figure>
+                  <p>STEMMA SACRVM <hi>The Royall Progenie</hi>
+                  </p>
+                  <pb facs="tcp:118308:3"/>
+                  <pb facs="tcp:118308:3"/>
+                  <p> Fleance y<seg rend="sup">e</seg> Sonne of Banquo of the family of good King Duncan of Scot<g ref="char:EOLunhyphen"/>land fled out of Scotland into Wales for feare of y<seg rend="sup">e</seg> Tyrant Machbed who had murdred his father where he married y<seg rend="sup">e</seg> Prince of Wales his daugh<g ref="char:EOLunhyphen"/>ter and by her begat Walter who returned into Scotland <hi>&amp;</hi> was made Lord high Stuart by y<seg rend="sup">e</seg> faithfull discharge whereof he obteined for himselfe <hi>&amp;</hi> family y<seg rend="sup">e</seg> name of Stuarts who were afterward Kings of Scotland <hi>&amp;</hi> brought y<seg rend="sup">e</seg> blood Royall of Wales to that Crowne.</p>
+                  <pb facs="tcp:118308:4"/>
+                  <pb facs="tcp:118308:4"/>
+                  <p> By computation of time it can be no other but this Iago though y<seg rend="sup">e</seg> history menti<g ref="char:EOLunhyphen"/>oneth not y<seg rend="sup">e</seg> name of y<seg rend="sup">e</seg> Prince whose daughter he married.</p>
+                  <p>Aegidius Fleming deline auit</p>
+                  <p>Printed for Robert Gibbs at the Golden-Ball in Chancery Lane with a booke explaining this Stem.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118308:5"/>
+            <pb facs="tcp:118308:5"/>
+            <head>To the Right Honourable, George, Lord Viscount CASTLETON, His much honoured Lord.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Mong many other choice passages of pleasant Histories, <hi>Aelian</hi> the Greek Histori<g ref="char:EOLhyphen"/>an hath this, That a certain
+<pb facs="tcp:118308:6"/> Musitian solacing himself with the melody of his mu<g ref="char:EOLhyphen"/>sick wherein he was admi<g ref="char:EOLhyphen"/>rably skilful, it fortuned that the Treble-string of his Lute broke; but his good luck was to have it supplied again by a Grashopper, that leaping upon his instru<g ref="char:EOLhyphen"/>ment, gave her Note tune<g ref="char:EOLhyphen"/>able to that string that was wanting. In this our publick and unparalleld time of joy, if the Spheres of hea<g ref="char:EOLhyphen"/>ven could make musick to be heard by men upon the
+<pb facs="tcp:118308:6"/> earth, God hath given us a season of mirth fit for such a melody; the Lord our God is with us, and the shout of a King is amongst us; it is now a time neces<g ref="char:EOLhyphen"/>sary for every skilful and sweet singer of <hi>Israel,</hi> to bring his Harp to compleat the musick; if <hi>I</hi> come in but like this Musitians Grass<g ref="char:EOLhyphen"/>hopper, to contribute a Treble-string, or what else might be more mean, it is glory enough for me; <hi>I</hi> am not nice to tune so well as <hi>I</hi>
+               <pb facs="tcp:118308:7"/> can: He that can offer an Hecatomb, here is an Altar of thanksgiving worthy such a sacrifice; and <hi>I</hi> that have but one grain of frank<g ref="char:EOLhyphen"/>incense, will fling on mine also, the best that I can do I present to the World here a Genealogy of the Kings Sacred Majesty, his Royal Descent from all the Kings that have ever reigned in this Island, whereby the people may perceive how properly, rightly, legally, and intirely He is their
+<pb facs="tcp:118308:7"/> own, whom they now thus joyfully receive; and I have annexed unto it a small Tractate for explanation of the Stem-Royal, for the help of those who are not versed in things of this na<g ref="char:EOLhyphen"/>ture; together with other observations and applicati<g ref="char:EOLhyphen"/>ons of such things that I thought needful.</p>
+            <p>These I here presume to dedicate to your Honours Patronage, which I humb<g ref="char:EOLhyphen"/>ly beg that you would please benignly to accept
+<pb facs="tcp:118308:8"/> of, and pardon my bold<g ref="char:EOLhyphen"/>ness. Though I be a stranger to your Person, yet truly my Lord I must needs say I am very well acquainted with your worth; <hi>nemo fefellit omnes.</hi>
+            </p>
+            <p>A good name, saith <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> is like a precious oyntment, we may smell the fragrancy, though we never see the person that carrieth it about him; as the spices of <hi>Arabia</hi> are said to be lushiously redo<g ref="char:EOLhyphen"/>lent to those that are distant
+<pb facs="tcp:118308:8"/> from it some hundreds of miles: The honourable de<g ref="char:EOLhyphen"/>portment of your self hath justly made you conspicu<g ref="char:EOLhyphen"/>ous and beloved over all our County of <hi>Lincoln,</hi> as appeared, when they so joy<g ref="char:EOLhyphen"/>fully and numerously lately chose you for one of their Representatives in Parlia<g ref="char:EOLhyphen"/>ment; and the sweet sent of this your noble worth, could not but come to me, though now aged and ob<g ref="char:EOLhyphen"/>scure, &amp; living in recess and retirement; I must needs
+<pb facs="tcp:118308:9"/> further be so bold as to challenge the relation to be your honours poor neigh<g ref="char:EOLhyphen"/>bour, in respect of some of your honours inheritances lying near us; and your late father of honourable me<g ref="char:EOLhyphen"/>mory, was (though I being but once in his company) pleased to honour me with affectionate and earnest in<g ref="char:EOLhyphen"/>vitation to come unto his house, and be better known unto him; but he changed this life for a better, before I could have opportunity
+<pb facs="tcp:118308:9"/> to tender him my service. Though what I have here done be but mean, your ho<g ref="char:EOLhyphen"/>nours name in the frontis<g ref="char:EOLhyphen"/>pice will be my credit and encouragement further to serve you in any of my abilities, and to subscribe my self,</p>
+            <closer>
+               <signed>
+                  <hi>Your honours humble servant,</hi> Giles Fleming.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:118308:10"/>
+            <l>COme hither if you want a guide,</l>
+            <l>To shew you whom ye should obey;</l>
+            <l>Look on this Stem, and see descry'd,</l>
+            <l>To whom of right belongs the sway.</l>
+            <l>If from your Fathers ye possess</l>
+            <l>That Land you rightly call your own,</l>
+            <l>By the same Law ye must confess</l>
+            <l>That unto <hi>Charles</hi> belongs the Throne;</l>
+            <l>And if a thousand years make good</l>
+            <l>A title to the English Crown,</l>
+            <l>Longer then so his Race hath stood;</l>
+            <l>Then how can subjects put him down?</l>
+            <l>Who art thou that within this Land,</l>
+            <l>Dost challenge either birth or place?</l>
+            <l>Look here, and thou shalt understand</l>
+            <l>Who 'tis that dignifies thy Race.</l>
+            <l>Art thou a Norman Noble Peer,</l>
+            <l>And from them drawst thy high descent?</l>
+            <l>Plantagenet, I present thee here</l>
+            <l>Thy Lineages chief Ornament.</l>
+            <l>Stout Saxon, with thy crooked Sword</l>
+            <l>If that thou say, Shew me my King;</l>
+            <l>Take it upon a Scholars word,</l>
+            <l>King <hi>Edgars</hi> Heir to thee I bring.</l>
+            <pb facs="tcp:118308:10"/>
+            <l>If thou say'st, Bold and Bonny, Scot,</l>
+            <l>I ne're had King, but was mine own:</l>
+            <l>A Steward's here thy happy lot,</l>
+            <l>The lawful Heir of <hi>Calidon.</hi>
+            </l>
+            <l>Rich ancient, Yeoman born in <hi>Kent,</hi>
+            </l>
+            <l>If that thou cry'st A <hi>Dane</hi> for me,</l>
+            <l>
+               <hi>Canutus</hi> blood I here present,</l>
+            <l>The Heir to <hi>Denmarks</hi> Majesty.</l>
+            <l>Old <hi>Brittane</hi> who in Lyrick verse</l>
+            <l>Sangst of so many Kings of Yore,</l>
+            <l>
+               <hi>Tuders</hi> Blood-Royal I reherse,</l>
+            <l>Of whom thy Bards sang long before.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118308:11"/>
+            <pb n="1" facs="tcp:118308:11"/>
+            <head>
+               <hi>STEMMA SACRƲM,</hi> The Royal Progeny.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Olicrates</hi> King of <hi>Samos</hi> is celebrated in our Gre<g ref="char:EOLhyphen"/>cian Histories for the most fortunate of Princes that ever reigned in the world for some part of his life; yea, <hi>Herodo<g ref="char:EOLhyphen"/>tus</hi> reports of him, That he was of such an irresistible felicity, that on a time, he wilfully cast a gold Ring with a Jewel in it of inestimable value, and wonderful vertue, into the Sea, that he might say he had lost something in his dayes; yet see the good fortune of the man; within a small time after he found it (sayes he) in the belly of a Fish
+<pb n="2" facs="tcp:118308:12"/> that was served up to his Table. Let this be truth if you will, or let it be a Fable, or Greek tradition, of which sort indeed they have abundance set forth for Ornaments sake.</p>
+            <p>But however it were, this I am sure of, That never any <hi>Policrates,</hi> nor Prince, no nor People, neither were more conspicuously attended by a con<g ref="char:EOLhyphen"/>stant course of felicity, than we the people of this Island, (once not un<g ref="char:EOLhyphen"/>properly, it was called <hi>Insula Fortu<g ref="char:EOLhyphen"/>nata</hi>) were for above a Century of years together last past, till the begin<g ref="char:EOLhyphen"/>ning of these late distractions, accord<g ref="char:EOLhyphen"/>ing to the best Rule that <hi>Machiavel</hi> hath, <hi>Tres boni principes miraculum con<g ref="char:EOLhyphen"/>stituunt in republica.</hi>
+            </p>
+            <p>And at the very <hi>Achme</hi> of those happy dayes, God had bestowed upon us a Jewel; yea, a precious Jewel; yea, (not the like again in every vertue and grace considered active and passive) hardly to be parallel'd in any Age of the World: I mean, our gracious and
+<pb n="3" facs="tcp:118308:12"/> late Sovereign, King <hi>CHARLES</hi> of sorrowful and heavenly memory: But we foolish and inconsiderate Peo<g ref="char:EOLhyphen"/>ple, made wanton with the surfet of our own good fortune, (as it seemeth that <hi>Policrates</hi> was) wilfully cast away this Jewel, and lost it; <hi>Mare mortuo,</hi> in the dead Sea; nay, in a red Sea of Manly English blood, gushing out for twenty years together.</p>
+            <p>Yet see <hi>O ENGLAND,</hi> and see thy happiness at the present, and be more wise for the future.</p>
+            <p>By the blessing of Him that dwelt in the Bush towards us, we have found this our precious Ring again, and God hath brought Him home again to our Doors, and very Tables, in the return of our gracious and most welcome So<g ref="char:EOLhyphen"/>veraign, King <hi>CHARLES</hi> the second, the true Son and Heir of these His Fathers Crowns and Kingdoms; and the Image and true Character of His Vertues.</p>
+            <p>Let us Record it in our <hi>Annales,</hi> and
+<pb n="4" facs="tcp:118308:13"/> write up in Marble, the nine and twen<g ref="char:EOLhyphen"/>tieth day of <hi>May,</hi> was <hi>Natalis Regis, &amp; Natalis Regni;</hi> the birth-day of the King, and the birth-day of the King<g ref="char:EOLhyphen"/>dom; and let us forget all other <hi>Epo<g ref="char:EOLhyphen"/>che</hi>'s of time.</p>
+            <p>What remarkable fatalities were there that ever fell amongst us, even from the beginning of our being a People, to this most happy day, that were not <hi>Nugae,</hi> even Trifles to it, if compared with this.</p>
+            <p>Among all the judgements that God ever exercised us withall, Was there ever any like this? That for the space almost of twenty years, this Land should be without a King, and without a <hi>Teraphim?</hi> And among all the mer<g ref="char:EOLhyphen"/>cies that God ever shewed, not only to this, but to any other Kingdom in the world, was there ever any like this, that a Kingdom left utterly headless, and unmanned for so long a time as that; and floating like a ship upon the Sur<g ref="char:EOLhyphen"/>ges, without either Mast or Tackle,
+<pb n="5" facs="tcp:118308:13"/> Pilot or Helme; and which conduced more to the peril and the ruine of it, when it was in the time of its Nau<g ref="char:EOLhyphen"/>frage, so often attempted to be steered by wilful and unskilful hands, who could not carry it the length of a fur<g ref="char:EOLhyphen"/>long, before they did impinge them<g ref="char:EOLhyphen"/>selves, and the Vessel, upon some new and worse dangers; and such a Bark neither in all that woful space not to become the prey of Pyrates, or the wrack of the Ocean; but at last should come safe and loaden home: So is it not as worthy of godly admiration and thankfulness, that this poor Nation thus desolately left (which had from her beginning even to an houre con<g ref="char:EOLhyphen"/>tinued in a successive and hereditary Monarchy) should not in the space of such a vast vacuity, not only be preser<g ref="char:EOLhyphen"/>ved from Vassalage to our ambitious neighbours; but also to receive our own lawful Prince again, without the help of any other People that might engage us unto them, or without any blood shed
+<pb n="6" facs="tcp:118308:14"/> amongst our selves; and our Prince Himself not corrupted with the con<g ref="char:EOLhyphen"/>tagion of any Forreign Aire; but to return pure out of <hi>Sodom,</hi> and a Prote<g ref="char:EOLhyphen"/>stant, according to the Profession of the Blessed Church of <hi>ENGLAND,</hi> though forced to recide from the first time that could begin any Maturition to his Judgement, even to this day, in those places that oppugned it, both on the right hand, and on the left! The perils that He escaped were admirable; but the constancy that he continued in both towards God and us, are justly worthy of an higher <hi>Hallelujah.</hi>
+            </p>
+            <p>It might easily be instanced, both from examples of our own and other Princes, how Kings in far less difficul<g ref="char:EOLhyphen"/>ties, and far shorter continuations of them, have prostituted themselves un<g ref="char:EOLhyphen"/>to very unworthy conditions, and prof<g ref="char:EOLhyphen"/>fered the sale of their People upon very cheap terms of base and abject ser<g ref="char:EOLhyphen"/>vility.</p>
+            <p>But it is evident to all the World,
+<pb n="7" facs="tcp:118308:14"/> who are not wilfully blinded, that our young gracious Soveraign hath given us already this <hi>specimen</hi> both of His Vertue and Piety; that like the true Mother that stood before <hi>Solomons</hi> Tribunal, He was content to stand still, and wait, and suffer; the interest that he had to his childe, to hang in sus<g ref="char:EOLhyphen"/>pence till the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and natural af<g ref="char:EOLhyphen"/>fection that was in Him towards it, who could not endure to see it destroyed, clearly made it evident, that He was the true Parent.</p>
+            <p>Otherwise, How easily He might have abbreviated the bitter dayes of His Exile; and also how fully He might have satiated (if there had been in him that carnal gorge that is in too many in the World) the thirst of His own revenge upon His implacable ene<g ref="char:EOLhyphen"/>mies, a shallow judgement may easily apprehend.</p>
+            <p>And what had then become of us all, if there had been the least morsel in Him of that Vulgar Leaven. <hi>Pereant
+<pb n="8" facs="tcp:118308:15"/> Amici, modo pereant Inimici; Haec qui non videt, coecus est; qui non laudat, invidus; qui non admiratur, stu<g ref="char:EOLhyphen"/>pidus.</hi>
+            </p>
+            <p>Whatever unthankful men may censure of this, I know not; but most assuredly Almighty God for a just re<g ref="char:EOLhyphen"/>ward of this still and quiet possession of His soul in patience, gave Him this still and quiet possession of His Kingdoms without any forceable entrance.</p>
+            <p>
+               <hi>Ariston</hi> King of <hi>Sparta</hi> was a good King, and the delight of his People; only that which did allay the sweetness of their comfort, was this, That he was without children; therefore out of their great desire to have the Issue of so good a King to govern them after his death, they repaired to their Tem<g ref="char:EOLhyphen"/>ples, and made many Votes to beg that their King might have a Son; at last he had one, and the People, because that they conceived him to be the ef<g ref="char:EOLhyphen"/>fect of their Orisons, would needs give him a Name, and called him <hi>Demaratus,</hi>
+               <pb n="9" facs="tcp:118308:15"/> which signifieth, <hi>Asked of God by the prayers of the People.</hi> Assuredly He, nor no other could have more hearty and instant prayer, though happily from a people not so sinful, nor more longing and fervent desires and wishes, than this Prince of ours had offered for his re-enjoyment, for above twelve years together: It was Gods goodness that He should not come to us only in the midnight of our despairs, but also without any power but His own. That we might know him to be the immedi<g ref="char:EOLhyphen"/>ate gift of God, and so receive him. I conceive therefore that it will now be a sutable endeavour, to shew to such as know it not, the just interest that he hath over us, and the near relation that we have every one of us unto Him, as the true fountain of mutual love be<g ref="char:EOLhyphen"/>tween us both; and therefore the deli<g ref="char:EOLhyphen"/>neation of His Royal Genealogy, and illustration thereof, with some notes to help those that are not versed in our Chronicles, not to be improper.</p>
+            <pb n="10" facs="tcp:118308:16"/>
+            <p>It is both a command and a blessing that God giveth to <hi>Israel, Deut,</hi> 17.15. <hi>That they take unto them a King of their Brethren;</hi> in which (as in many other things) God in his Providence hath been as propitious to this Nation, as to any other Nation in the World, if not above them.</p>
+            <p>For though the changes in the Na<g ref="char:EOLhyphen"/>tion have been so frequent, and the people so divers, that have mingled themselves in habitation, that we may rightly be called, as sometimes we were, <hi>Durum saxi genus,</hi> such an heap of sundry stones, that we know not our own quarry, nor can we very well tell how to call our selves by our own names; yet this is worth our very a<g ref="char:EOLhyphen"/>mazement at Gods gracious dispose<g ref="char:EOLhyphen"/>ments, that in all the confluences of these sundry Nations, the <hi>Stem Royal</hi> of those that have come in, have still fal'n in to mix themselves with the Royalty of the former Inhabitants, that we have rather been enriched and en<g ref="char:EOLhyphen"/>creased,
+<pb n="11" facs="tcp:118308:16"/> than absorbed by them; and this must make our Kings Rights clear to us, and us again right dear to them, when we consider that He is bone of our bone, and flesh of our flesh, and all our shares so equal in Him, that if the contest should arise, as once it did be<g ref="char:EOLhyphen"/>tween <hi>Israel</hi> and <hi>Judah,</hi> concerning their interest in King <hi>David,</hi> no one could challenge more of Him than another: For this end I thought it good, and not unseasonable to revive again the delineation of the Originals, and Successions of our Kings, that people may know the natural right and regality that they have over us, and behold their uninterrupted continuati<g ref="char:EOLhyphen"/>on, even from our first being a people; and be sensible of Gods special bles<g ref="char:EOLhyphen"/>sings in them, that we may not be de<g ref="char:EOLhyphen"/>bauch'd again, as we have been by wicked Impostors into rebellion and tumult, to our own ruine and con<g ref="char:EOLhyphen"/>fusion.</p>
+            <p>Take therefore the distribution of
+<pb n="12" facs="tcp:118308:17"/> the Nations, who have seated them<g ref="char:EOLhyphen"/>selves in this Island, as followeth; let them be thus distinguish'd.</p>
+            <p>1. <hi>Aborigines.</hi> 2. <hi>Indigenoe.</hi> 3 <hi>Inquilini.</hi> 4. <hi>Victores.</hi> 5. <hi>Convenae.</hi> 6. <hi>Advenae.</hi>
+            </p>
+            <p>(So <hi>Civilians</hi> distinguish them.)</p>
+            <p>Fuller then these a Nation cannot be, and of the coalition of all these we do consist, and are their generations.</p>
+            <p n="1">1. <hi>Aborigines,</hi> or Natives, are such as beyond all Monuments of time and record have inhabited a place, and are so called, either because their begin<g ref="char:EOLhyphen"/>ning was coaeval with the first inhabi<g ref="char:EOLhyphen"/>tation of the Land; or privatively, because they cannot name their own Originals; such were the people under <hi>Latinus</hi> and <hi>Evander</hi> before <hi>Aeneas</hi> came amongst them with his Tro<g ref="char:EOLhyphen"/>jans.</p>
+            <p>These with us are the Ancient Brit<g ref="char:EOLhyphen"/>tans,
+<pb n="13" facs="tcp:118308:17"/> before whom we cannot account any people that dwelt here, nor they declare with any evidence of truth that they came from any other place hither; these a long while inhabited here by themselves, and were a people valiant in Arms, and wonderfully devout and religious, till at last they were op<g ref="char:EOLhyphen"/>pressed by the Saxons, and driven into those Parts and Mountains that they do now inhabit; these in the very ruines of their condition fought right manful<g ref="char:EOLhyphen"/>ly, and continued under their own Kings a long while, when they had hardly any Kingdom; neither could all the several conquests made in this Land, so extinguish them, but they re<g ref="char:EOLhyphen"/>mained (like the Rechabits in <hi>Israel</hi>) a distinct people, and kept their lan<g ref="char:EOLhyphen"/>guage unto this day; certainly the most Ancient that is vernacular in the world; length of time, and inundations of their neighbouring people, rather wore out, than conquered their Kings and Princes, of whom there were many of
+<pb n="14" facs="tcp:118308:18"/> great Name and Fame throughout the World; and have this dignity above others, that the first Christian King in the World was <hi>Lucius,</hi> King of <hi>Brittane:</hi> And the first Christian Ro<g ref="char:EOLhyphen"/>man Emperour, was <hi>Constantine</hi> the great, born, and reigning here in <hi>Brit<g ref="char:EOLhyphen"/>tany;</hi> God after a long while merciful<g ref="char:EOLhyphen"/>ly looked upon them, and to regain them an interest in the blood-royal, first joyned in marriage divers of the Kings of <hi>ENGLANDS</hi> Daught<g ref="char:EOLhyphen"/>ers with their Princes, and their Royal Linage; and at last, to their great con<g ref="char:EOLhyphen"/>tentation and comfort, brought King <hi>Henry</hi> the seventh to the Crown of <hi>ENGLAND,</hi> who was extracted out of their own Regality, and brought it into the English Throne, in the per<g ref="char:EOLhyphen"/>son of <hi>Owen Tuder</hi> his Grand-father; their ancient name of <hi>Tuder,</hi> or <hi>Theo<g ref="char:EOLhyphen"/>dore,</hi> who was descended from the Prin<g ref="char:EOLhyphen"/>ces of <hi>South-wales</hi> by the fathers side, and of <hi>North-wales</hi> by the mothers side.</p>
+            <pb n="15" facs="tcp:118308:18"/>
+            <p>And further, (to preserve them from all contempt, which is usually thrown upon the <hi>Aborigines</hi> of every Nation, though without any reason or justice, as we see at this day in <hi>Spain;</hi> the descendents of the <hi>Goth</hi>'s out-vye in honour the Ancient Spaniards, though they were those that held up the Bucklers so valiantly against the old Romans) God chose it to be the <hi>Asilum</hi> or Sanctuary, and likewise the birth-place in the time of the Tyranny of an Usurper, of him that gave a be<g ref="char:EOLhyphen"/>ginning to the Royal Family of the <hi>STUARTS,</hi> from whom sprung so many glorious Kings of <hi>Scotland,</hi> and to whom again we owe in a great part Him that is the breath of our nostrils, and the joy of our hearts, <hi>ROYAL KING</hi> CHARLES <hi>THE SE<g ref="char:EOLhyphen"/>COND.</hi>
+            </p>
+            <p n="2">2. <hi>Indigenae,</hi> Whom we may call Inhabitants, they differ from the <hi>Abo<g ref="char:EOLhyphen"/>rigines</hi> in a strict acception, though both
+<pb n="16" facs="tcp:118308:19"/> the terms be promiscuously used, as the Grammarians make between <hi>Gens</hi> and <hi>Natio;</hi> the one is of a greater la<g ref="char:EOLhyphen"/>titude than the other, and they are such people who make inroads into a Coun<g ref="char:EOLhyphen"/>try, either by force, or otherwise, spread themselves over a Nation, and utterly forsake their own Countrey, and all re<g ref="char:EOLhyphen"/>lation to it; change their name, and bring their language into the Countrey that they come into: Such were the <hi>Trojugenae</hi> among the Romans; the <hi>Vandals</hi> to the last Italians; the <hi>Goths</hi> to the Spaniards; the <hi>Franks</hi> to the French, &amp;c.</p>
+            <p>These were the Saxons which (for the greatest part of us) this day we are; these came over from <hi>Germany</hi> hither, and I believe led the dance to the eruption of those North-East Na<g ref="char:EOLhyphen"/>tions, that over-spread most parts of <hi>Europe:</hi> These continued in a King<g ref="char:EOLhyphen"/>dom here about six hundred years, be<g ref="char:EOLhyphen"/>ing sometimes an Heptarchy, and after<g ref="char:EOLhyphen"/>ward a Monarchy; but in a day of
+<pb n="17" facs="tcp:118308:19"/> visitation they were first molested by the <hi>Danes,</hi> and after subdued by the <hi>Normans,</hi> and their own Kings displa<g ref="char:EOLhyphen"/>ced: But God in his mercy, in his own time looked upon them; and what they were not able to do by their own power, he wrought for them by his Divine Providence, as you shall find in the sequel.</p>
+            <p n="3">3. <hi>Inquilini,</hi> or Intruders, are no o<g ref="char:EOLhyphen"/>ther than Coasters or Adventurers, that are sent forth into a Nation to sack and spoile, and being not in themselves enough to possess it, yet are able to molest and grieve it, and make pillage and exaction out of it; such was <hi>Bren<g ref="char:EOLhyphen"/>nus</hi> and his Crew; first to the <hi>Romans</hi> in the time of <hi>Camillus,</hi> and afterward to the <hi>Graecians;</hi> and such were the <hi>Philistines</hi> to the <hi>Israelites</hi> about the time of <hi>Saul,</hi> when they would not suf<g ref="char:EOLhyphen"/>fer so much as a Smith to be amongst them to make them Armour.</p>
+            <p>The <hi>Danes</hi> here with us were these,
+<pb n="18" facs="tcp:118308:20"/> who first grievously molested us as hostile neighbours; and afterward <hi>Ca<g ref="char:EOLhyphen"/>nutus</hi> their King set himself in the Throne over us, and curbed the Land greatly: But again, God forgot us not; for <hi>Canutus</hi> fell in love with <hi>Emma</hi> a fair Lady, the Widow of <hi>Etheldred,</hi> formerly a Saxon King, who being married to him, first obtained (as <hi>Hester</hi> for the <hi>Jewes</hi>) great fa<g ref="char:EOLhyphen"/>vour and mitigation from him towards the English <hi>Saxons,</hi> and afterwards had issue by him <hi>Hardy Canutus,</hi> who to their joy was half their own Countrey man, and was the occasion their own Saxon-line-royal came in again by <hi>Ed<g ref="char:EOLhyphen"/>ward Confessor,</hi> and continued through the Race of divers other Kings; and also the <hi>Danes</hi> from molestful neigh<g ref="char:EOLhyphen"/>bours, mingled themselves in the Land, and became proper inhabitants, and made us a more numerous and warlike people than we were before; whose Progeny still is with us, whereof many Worshipful, yea, and some Noble Fa<g ref="char:EOLhyphen"/>milies
+<pb n="19" facs="tcp:118308:20"/> are extracted, as in other parts, so especially in the County of <hi>Kent;</hi> whose procere bodies, sprightly minds, yellow locks, (and which is best of all) faithful hearts shew them to be the issue of such a manly people. And to give them likewise an equal interest in their Soveraign, we fee how instantly God closed the two Nations at the be<g ref="char:EOLhyphen"/>ginning, and how often our Females have been married to the Kings of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> since. And after in these our dayes, the Noble Lady <hi>Queen Anne,</hi> Daughter to <hi>Frederick,</hi> Sister to <hi>Chri<g ref="char:EOLhyphen"/>stianus,</hi> both Kings of <hi>Denmark,</hi> lived a long while in sweet conjugal love with <hi>King James,</hi> who was the fruit<g ref="char:EOLhyphen"/>ful fountain of the present Blood-Roy<g ref="char:EOLhyphen"/>al; and the happy Grand-mother of him who in the mid-night of our sor<g ref="char:EOLhyphen"/>row, like a new created Star shining in the Firmament, comes to bring us hap<g ref="char:EOLhyphen"/>piness; <hi>ROYAL KING</hi> CHARLES <hi>THE SECOND.</hi>
+            </p>
+            <p n="4">
+               <pb n="20" facs="tcp:118308:21"/>4. <hi>Victores,</hi> or Conquerours, are when two Princes, equal enemies, af<g ref="char:EOLhyphen"/>ter demands of restitution, or repara<g ref="char:EOLhyphen"/>tion of some injury presumed to be committed one against the other, put the debate thereof to the arbitration of their Swords; those who overcome the other, challenge that which they call a right of Conquest, which al<g ref="char:EOLhyphen"/>though there can be no such determi<g ref="char:EOLhyphen"/>nation by any Law of equity; yet custome hath so far prevailed with men, that after an hundred years (which they call <hi>seculum</hi>) continued, it passeth <hi>(Jure Gentium)</hi> into a right; and their plea for this is, <hi>Quod fieri non debet factum valet.</hi>
+            </p>
+            <p>But of necessity it must needs be, that they be <hi>Justi Hostes,</hi> (as the <hi>Feu<g ref="char:EOLhyphen"/>dists</hi> call them) and that neither of them can challenge any right one of them over the other: For for the Vas<g ref="char:EOLhyphen"/>sal to claim a right of conquest against his Lord, is a Tenent not only explo<g ref="char:EOLhyphen"/>ded by all <hi>Civilians,</hi> and civil Nati<g ref="char:EOLhyphen"/>ons;
+<pb n="21" facs="tcp:118308:21"/> but all <hi>Barbarians</hi> have ever de<g ref="char:EOLhyphen"/>tested it; and for <hi>Mercinaries</hi> to make such a plea, is more monstrous than it; and therefore the <hi>Law-Feudary</hi> hath determined that prescription of never so long a time, prevaileth not for the Vassal against the Lord; for the which I read <hi>Blondus</hi> the great <hi>Civilian</hi> cited.</p>
+            <p>In the sense first above-said, the com<g ref="char:EOLhyphen"/>mon voyce will have <hi>William</hi> Duke of <hi>Normandy</hi> with his <hi>Normans</hi> to make such a conquest over us: But to speak truly, <hi>William</hi> was rather a Conqueror over the King, than the Kingdom; for if we look upon the right between him and King <hi>Harold,</hi> both of them in con<g ref="char:EOLhyphen"/>sanguinity had a Relation alike to the Blood-Royal, though neither of them the heir; but <hi>William</hi> was thus much before him, that he did plead his A<g ref="char:EOLhyphen"/>doption and Designation to the Crown from <hi>Edward the Confessor,</hi> who dyed Orb or Childless; and also <hi>Harold</hi> had by holy Sacrament sworn and pro<g ref="char:EOLhyphen"/>mised
+<pb n="22" facs="tcp:118308:22"/> to keep the Kingdom for the be<g ref="char:EOLhyphen"/>hoof of <hi>Duke William.</hi> But understand the state of Affairs then with <hi>ENG<g ref="char:EOLhyphen"/>LAND</hi> were thus.</p>
+            <p>
+               <hi>Edgar Etheling,</hi> the son of <hi>Edward,</hi> surnamed <hi>Outlawe,</hi> and the Grand<g ref="char:EOLhyphen"/>childe to <hi>Edmund Ironside</hi> the true Heir of the Crown was driven out of the Kingdom by this <hi>Harold,</hi> who u<g ref="char:EOLhyphen"/>surped his Throne, and he fled with his sister <hi>Margeret</hi> for his safety into <hi>Scotland.</hi> The English, who never could joy in any Soveraignty, but in the true Heir of the Crown, grew ve<g ref="char:EOLhyphen"/>ry indifferent, (being they could not have him whose right it was) to sub<g ref="char:EOLhyphen"/>mit to any one that could get the Garland; otherwise it had not been a single battel fought at <hi>Hastings,</hi> that could have got <hi>Duke William</hi> the King<g ref="char:EOLhyphen"/>dom of <hi>ENGLAND;</hi> but King <hi>William</hi> won and wore it, and two of his sons after him.</p>
+            <p>But now we come to the Providen<g ref="char:EOLhyphen"/>tial Revolutions which I told you of,
+<pb n="23" facs="tcp:118308:22"/> wherein God hath shewed himself so conspicuous in the continuation of our own right Kings unto us.</p>
+            <p>
+               <hi>Henry Beuclark,</hi> the last son of King <hi>William</hi> that reigned, being a right wise Prince, and well knowing that an Empire gotten by force could no lon<g ref="char:EOLhyphen"/>ger remain, then that force continued, sent into <hi>Scotland,</hi> and took to wife <hi>Maud</hi> the Daughter of <hi>Queen Marga<g ref="char:EOLhyphen"/>ret,</hi> sister to <hi>Edgar Etheling,</hi> (who was now dead, and left no issue) whereby this <hi>Maud</hi> was the Heir of the <hi>Saxon</hi> Line, and in her brought back again to us the Ancient English Blood-Royal before it had descended beyond one Generation from the Conquerour, in whose Line it continueth even unto this blessed day.</p>
+            <p>By this it will appear unto the good Reader, that the Vapors that the Soul<g ref="char:EOLhyphen"/>diers made to us when they swagger'd in their quarters, that the King had no right to the Kingdom, but by con<g ref="char:EOLhyphen"/>quest, and that they had now conquer'd
+<pb n="24" facs="tcp:118308:23"/> it as well as he, <hi>Ergo,</hi> the Land was now theirs▪ betrayed as much ignorance as insolence, and that their premises were as false, as their conclusion was sot<g ref="char:EOLhyphen"/>tish.</p>
+            <p n="5">5. <hi>Convenae,</hi> or Associates, are when two Nations for the mutual good of each other either voluntarily, or brought to pass by the descending of some right of a Prince over them, both agree together to communicate the Rights of one Nation interchange<g ref="char:EOLhyphen"/>ably to another, sometime in whole, sometime in part.</p>
+            <p>Such were the conventions that were made between the <hi>Romans</hi> and the <hi>Sabins</hi> under <hi>Romulus</hi> and <hi>Tatius,</hi> wherein <hi>Livy</hi> reciteth how equally the conditions were shared between them; the <hi>Metropolis,</hi> or chief City of residence should be <hi>Rome,</hi> the City of <hi>Romulus,</hi> and both the Nations should be called <hi>Quirites</hi> from <hi>Cures</hi> the Country of <hi>Tatius,</hi> and many the like equal partitions.</p>
+            <pb n="25" facs="tcp:118308:23"/>
+            <p>God Almighty in these our dayes, <hi>(ad cumulum usque misericordiae)</hi> knit us and the warlike people of the <hi>Scots</hi> together in this true lovers knot, by the coming of good King <hi>James,</hi> to unite all the Regality that ever had pos<g ref="char:EOLhyphen"/>sessed this Land in one; and to recon<g ref="char:EOLhyphen"/>cile those that for a long time had been to both their great damages such dead<g ref="char:EOLhyphen"/>ly enemies, and over and above to make them one people; which indeed he did begin by a most Oracular sagacity.</p>
+            <p>First, In communicating to them both mutually, <hi>Jus Connubii,</hi> by mar<g ref="char:EOLhyphen"/>rying many Noble Families of the one to the other, according to a true State Rule, <hi>Status Politicus fundatur in Sta<g ref="char:EOLhyphen"/>tu Oeconomico.</hi>
+            </p>
+            <p>Secondly, <hi>Jus Honorum;</hi> confer<g ref="char:EOLhyphen"/>ring upon many the honours and titles of one Nation, to them that were born in the other.</p>
+            <p>Thirdly, <hi>Jus Petitionis,</hi> whereby Rights of Plea, and Rights of Inhe<g ref="char:EOLhyphen"/>ritance might be claimed, and descend
+<pb n="26" facs="tcp:118308:24"/> to either people from other, by the Sta<g ref="char:EOLhyphen"/>tute of <hi>Post Nati.</hi>
+            </p>
+            <p>There wanted only that which is not essential to a union, especially under one Monarch, and cannot be brought to pass but <hi>sensim,</hi> and must be an Act of time, and that was <hi>Jus suffragii,</hi> which we may translate the Legislative Right of Vote, which as it will be the endea<g ref="char:EOLhyphen"/>vour of every good time, so there is no doubt but it will be perfected in its due time by the blessing of God upon both Nations; <hi>Et Gens una sumus facti, sic simus in aevum.</hi>
+            </p>
+            <p n="6">6. <hi>Advenae sive Hospites,</hi> Strangers are those, who either out of friendship, or pity in time of their misery, or for profit for the learning of some good Art or Science by them (as <hi>Solomon</hi> entertained the people of King <hi>Hiram</hi>) are admitted unto a Nation; this way we never had any people that in any re<g ref="char:EOLhyphen"/>markable number came at any time o<g ref="char:EOLhyphen"/>ver unto us; only the <hi>Dutch</hi> indeed
+<pb n="27" facs="tcp:118308:24"/> once in a time of inundation of waters, were entertained by King <hi>Henry</hi> the first out of love, because his mother <hi>Maud</hi> was a <hi>Dutch</hi> woman; these were sent into <hi>Pembrokshire,</hi> and there seated their generations; and the truth is, in one thing (as I have read) did more than all the Conquests of the other Nations could do; for they changed something in those parts, the Dialect of the <hi>Welsh</hi> tongue.</p>
+            <p>Another time of the coming over of that Nation, was at the time of King <hi>Edward</hi> the third, who had married their Princess, <hi>Philip</hi> the daughter of <hi>William,</hi> Earle of <hi>Henault,</hi> A mighty Prince, and rich; and this is worth our animadversion.</p>
+            <p>First, Because it was (together with the likeness of our good dispositions) the beginning of that amity between the <hi>Dutch</hi> and us, which remaineth unto this day.</p>
+            <p>And chiefly because that out of the fruitful womb of that <hi>Queen Philip,</hi>
+               <pb n="28" facs="tcp:118308:25"/> proceeded both the Royal Families of <hi>York</hi> and <hi>Lancaster,</hi> from which our present Princes are descended.</p>
+            <p>Now judge good Reader by what thou hast here seen upon appeal to thy own distempered judgement.</p>
+            <p>First, If there be any right, righte<g ref="char:EOLhyphen"/>ousness, justice, or any other thing that is called equal in the world, that a suc<g ref="char:EOLhyphen"/>cessive Monarchy, coaeval with the peo<g ref="char:EOLhyphen"/>pling of this Land, and beyond all the Records of time; and (as it is mani<g ref="char:EOLhyphen"/>fest) for two thousand years not inter<g ref="char:EOLhyphen"/>rupted an houre, should by an inconsi<g ref="char:EOLhyphen"/>derable number of its own people, and those of the meanest condition, and mercinary only, and conscribed by o<g ref="char:EOLhyphen"/>thers, and sent forth and avowed but to compose some unhappy National differences, (a thing indeed too often falling out in the world, when mens peevish distempers, and Gods just judg<g ref="char:EOLhyphen"/>ment for sin will not let them attend more moderate courses) possess them<g ref="char:EOLhyphen"/>selves of a Kingdom, moul'd the Go<g ref="char:EOLhyphen"/>vernment
+<pb n="29" facs="tcp:118308:25"/> thereof as they please, and against the minds of an hundred times their numbers, and of a thousand times their betters, extinguish that Regality that hath had such a continued sancti<g ref="char:EOLhyphen"/>on, and this interest and relation to eve<g ref="char:EOLhyphen"/>ry of the people.</p>
+            <p>Secondly, Whether it could be fea<g ref="char:EOLhyphen"/>sible, or were only a foolish dream, whether such a warlike Nation, who through all the times of their Fathers had acted such glorious things under their Kings, and had spent more blood than now is in all our bellies to settle it in the true Line, should be ever brought to such an unmanly tameness, as to yield our selves to the base sub<g ref="char:EOLhyphen"/>jection of our own servants.</p>
+            <p>There was a two-fold falsination, that (as I conceive) both the people, and likewise that they themselves (at least in part) that attempted the alteration of the State, seduced them<g ref="char:EOLhyphen"/>selves into.</p>
+            <p n="1">1. That the Nation was inclined
+<pb n="30" facs="tcp:118308:26"/> to receive any popular form, because of their great adoration that they shewed to Parliaments.</p>
+            <p n="2">2. The opinion that some lewd spirits had distilled into weak capaci<g ref="char:EOLhyphen"/>ties, that our Kings were now become farther distant from us, because they were born in those parts of the Island that had been distinct from us.</p>
+            <p>In both of these, no people could cheat themselves more grosly.</p>
+            <p>
+               <hi>First,</hi> To conceive, that because they had taken boggle at some State overtures that were falsly represented unto them, and disguised by others, therefore that they were weary of Kingship, was as skilfully concluded, as he that seeing a man in an hot feaver to talk much, and use some wilde and frantick expressions, should thereupon conclude that the man was stark mad, and would never recover his wits again; so indeed doth their fancy prevaricate with them who judge of the <hi>genius</hi> and inclination of any people by their
+<pb n="31" facs="tcp:118308:26"/> present distempers: But the <hi>Crisis</hi> of the propensities of a people is best of all, and only judged of by their pro<g ref="char:EOLhyphen"/>per and perpetual constitution, which constantly remaineth with them, and to speak truth, is best seen when they ate <hi>sedati,</hi> and most themselves, (as the face is better discerned in the still water than in the troubled.)</p>
+            <p>Now he that will look upon us this way, shall plainly see that we are a very Martial people as most in the World; our own former Atchievements all a<g ref="char:EOLhyphen"/>long evidence this; and those that have been able to look Philosophically upon us, have, and can evince this from the nature of our complexion, from our climate, and part of heaven in respect of our <hi>Polar</hi> Elevation, from the Mon<g ref="char:EOLhyphen"/>tainous situation of our habitations, and many other proper <hi>Indices;</hi> and this is not a flattering and over-weening con<g ref="char:EOLhyphen"/>ceit of our own; impartial strangers pronounce as much of us.</p>
+            <p>I remember about some foure or five
+<pb n="32" facs="tcp:118308:27"/> and forty years since, or thereabouts, there came over hither to <hi>King James</hi> an Ambassadour from the Emperour of <hi>Russia,</hi> the mans name (as I take it) was <hi>John Basilides,</hi> his negotiation was for aid against the <hi>Turk;</hi> I had at that time, though but then young, the hap<g ref="char:EOLhyphen"/>piness to hear him deliver his Oration, which was very elegant, and frequent<g ref="char:EOLhyphen"/>ly copied out, and at last printed; in this Oration he gave this Character of the three Nations, <hi>Ferocissimi Angli, Bellicosissimi Scoti, Indomiti Hyberni;</hi> The fierce English, the warlike Scot, the untameable Irish. I have often since, especially in these times, seriously considered of the judicious mans words; and I verily believe no man (though he should live an whole age with us) could have more truly decyphered a people: More Instances I could adde to confirm that we are a very virile people.</p>
+            <p>They are wonderful shallow there<g ref="char:EOLhyphen"/>fore that have imaginations that such a people as we will be governed by any other than by a King.</p>
+            <pb n="33" facs="tcp:118308:27"/>
+            <p>
+               <hi>First,</hi> Because the generosity of their minds will not let them stoop to those that have formerly been their Equals.</p>
+            <p>
+               <hi>Secondly,</hi> The high stomacks that are in them when they have got any power, lifts them up with a desire of sole rule, and an impatience of partici<g ref="char:EOLhyphen"/>pation of Power; verifying that of the Poet,
+<q>Nulla fides Regni omnisque sociis potestas Impatiens consortis erit.</q>
+            </p>
+            <p>And he that had no other example to confirm him in this judgement but the late distempers, might easily be confirmed in it. We see what variety there was, and rowling of one govern<g ref="char:EOLhyphen"/>ment after another, (they themselves had an holy Nick-name for it, and cal<g ref="char:EOLhyphen"/>led it <hi>pouring out from Vessel to Vessel</hi>) in the small space of twelve years, like tumbling waves they fell so thick one on the neck of another, that we could
+<pb n="34" facs="tcp:118308:28"/> hardly distinguish them how they flow<g ref="char:EOLhyphen"/>ed, and followed: But that which to me was worthy of animadversion, was this, That I perceived ever as any new Government came and supplanted the former, it was very joyfully received; and as soon as that fell, that which suc<g ref="char:EOLhyphen"/>ceeded had as good welcome again, and the former was exploded.</p>
+            <p>This to me could not but make it ap<g ref="char:EOLhyphen"/>pear that the People were quite out of their Byas and proper Inclinations; and like a dislocated bone, out of the proper joynt, may be easily removed to any other place, but finds rest in none of them, till it knit into the per<g ref="char:EOLhyphen"/>fect juncture.</p>
+            <p>But for further confirmation of this, I will tell you a former passage that fell out in this Land; and I think neither unpleasant, nor unprofitable to be ob<g ref="char:EOLhyphen"/>served.</p>
+            <p>If it please you but to look into the Stemme that I have here prefixed, you will finde that <hi>Henry</hi> the third had a
+<pb n="35" facs="tcp:118308:28"/> second son, called <hi>Edmund Crouch<g ref="char:EOLhyphen"/>back;</hi> and you will perceive that his great Grand-childe <hi>Blanch,</hi> was wife to <hi>John</hi> of <hi>Gaunt,</hi> and Mother to <hi>Henry Bullingbrook,</hi> who was <hi>Henry</hi> the fourth. Now I pray understand that <hi>Henry Bullingbrook,</hi> though when he first undertook the War against his Cosen <hi>Richard,</hi> made Oath and Sacra<g ref="char:EOLhyphen"/>ment that he came not for the Crown, but only to recover his own inheri<g ref="char:EOLhyphen"/>tance, to take away evil Counsellours, and the like stale pretences: But af<g ref="char:EOLhyphen"/>terwards having got the day, and in<g ref="char:EOLhyphen"/>tending then to take upon him the Go<g ref="char:EOLhyphen"/>vernment, all his perplexity was, that he found so many titles, that he could not tell which to choose, though one good one had been better than them all.</p>
+            <p>
+               <hi>First,</hi> He thought to claim it by <hi>Conquest;</hi> but that was judged so gene<g ref="char:EOLhyphen"/>rally distastful and illegal, that it would not be endured by any one.</p>
+            <p>
+               <hi>Secondly,</hi> Then by <hi>surrender</hi> from
+<pb n="36" facs="tcp:118308:29"/> King <hi>Richard,</hi> which though he had, yet the Lawyers told him that the Crown was such a Fee-simple, and so inherent in the person of the King, that it could not pass from him by any Deed of his own, though never so vo<g ref="char:EOLhyphen"/>luntarily made; besides, the King was then in prison; and what was so done, would be judged as done <hi>per Dures.</hi>
+            </p>
+            <p>The next that was thought upon, was, by Election of the people; but the Nobles would not endure that, be<g ref="char:EOLhyphen"/>cause the Crown was alwayes Heredi<g ref="char:EOLhyphen"/>tary, and not Elective.</p>
+            <p>At last, to make all sure, he pro<g ref="char:EOLhyphen"/>nounceth himself the true Heir of the Crown, by right of his Mother <hi>Blanch,</hi> who was Heir to this <hi>Edmund Crouch-back,</hi> who, as he said, was the eldest son to King <hi>Henry</hi> the third; but because he was crooked and deformed, was put by by his father; and <hi>Edward,</hi> though the younger brother, was made King. Now though this was a very untruth, and palpable enough; for <hi>Edward</hi>
+               <pb n="32" facs="tcp:118308:29"/> was the elder brother, and this <hi>Edmund Crouch-back</hi> was no way crooked, nor deformed, but a gallant proper Gen<g ref="char:EOLhyphen"/>tleman, and called only <hi>Crouch-back,</hi> because he wore the Cross upon his back, or on his Buckler, which he wore constantly at his back, to shew that he had made his vow to go to <hi>Jerusalem,</hi> to recover the holy Sepulchre; and such Knights that had made such vows, usually went in that Garb; but our language receiving some alteration in the Dialect, in that space of time, which was about an hundred years, <hi>crutched,</hi> which then signified <hi>crossed,</hi> as <hi>Crutched Friers</hi> (were called <hi>quasi</hi> crossed from the cross they carried) began vul<g ref="char:EOLhyphen"/>garly then to be taken for crooked. Now this mistake of the people he made use of; and though wiser men saw the fraud, yet they were content to let it pass; for they thought the wrong was only personall to the King, whom for his weakness they much esteemed not, and that the Crown it self suffer<g ref="char:EOLhyphen"/>ed
+<pb n="38" facs="tcp:118308:30"/> no great impeachment by it; and therefore this, with the addition of for<g ref="char:EOLhyphen"/>ty thousand men at the Parlliament House door, (as Sir <hi>John Heyward</hi> wittily observeth) passed at that time for a good plea and argument, though we all know it cost full dear afterward: This passage of History I thought good to propound unto you for two Reasons.</p>
+            <p>First, To shew how easily the peo<g ref="char:EOLhyphen"/>ple are imposed upon to believe any thing, though never so grosly false, what any power that hath first deluded them, and made themselves specious with them, and afterward got domini<g ref="char:EOLhyphen"/>on over them, do propound it.</p>
+            <p>Secondly, How tenaciously the peo<g ref="char:EOLhyphen"/>ple of <hi>England</hi> are naturally addicted and devoted to the true Heirs of their Crown, in that they would never sub<g ref="char:EOLhyphen"/>mit themselves to any, how popular so ever he were, (as this <hi>Henry Bulling<g ref="char:EOLhyphen"/>brook</hi>) if he came not in as true Heir, or at lest made some pretence to it that
+<pb n="39" facs="tcp:118308:30"/> way, though they may be forced or cheated for a time; but <hi>usque recurret;</hi> they have no lasting love for any intru<g ref="char:EOLhyphen"/>der; but their own Princes (as <hi>Guic<g ref="char:EOLhyphen"/>cardine</hi> excellently observeth) both of us and the <hi>French,</hi> that they follow them with a very kinde of Di<g ref="char:EOLhyphen"/>vinity.</p>
+            <p>Secondly, That idle delusion that they were <hi>strangers,</hi> is so ridiculous, that in it self I had not thought it wor<g ref="char:EOLhyphen"/>thy the taking notice of, if I had not accidentally met with (amongst those idle printed Gazets, that in these li<g ref="char:EOLhyphen"/>centious times swarmed abroad daily; <hi>Plusque Muscarum cum coelum sudum est, &amp; sol calet maxime,</hi> as <hi>Plautus</hi> neat<g ref="char:EOLhyphen"/>ly observes) a certain printed paper, that was the copy of a Solemn Oration spoke to a great Prince, by one that was sent from our then new Masters, where he doth affirm that our two last Kings were strangers, and very extream in Government; whether this were spoken with that ingenuity and integri<g ref="char:EOLhyphen"/>ty
+<pb n="40" facs="tcp:118308:31"/> that belongeth to a publick Minister of State, I leave it to the world to judge, whether he call them strangers that were born in the same Island, speaking the same language, educated the first for a great part of his life, the latter from his very infancy, in this Kingdom of <hi>England,</hi> with us, descended as li<g ref="char:EOLhyphen"/>neally from the Blood-Royal of one Kingdom as from the other: Was it ever accounted with us that King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the second, though born in <hi>France,</hi> was a stranger? Nay, when every stone that might be gathered up, was flung a<g ref="char:EOLhyphen"/>gainst poor King <hi>Richard</hi> the second, <hi>Digna &amp; indigna relatu,</hi> was this ever objected amongst all the Obloquy that forced Oratory could frame against him, that he was a stranger, because he was born in <hi>Burdeaux,</hi> or against the <hi>Yorkshire</hi> Line, because they descended from <hi>John</hi> of <hi>Gaunt</hi> born in <hi>Flanders?</hi>
+            </p>
+            <p>Will any <hi>Spaniard</hi> in the World say that the present house of <hi>Austria</hi> are strangers, because that <hi>Charles</hi> the
+<pb n="41" facs="tcp:118308:31"/> fifth, and his son <hi>Phillipes,</hi> who gave beginning to that Family, were both born in <hi>Germany?</hi> I had thought that a man of that knowledge and experi<g ref="char:EOLhyphen"/>ence as the Gentleman either had, or would seem to have, could not but know but that it hath alwayes been ac<g ref="char:EOLhyphen"/>knowledged by <hi>Civilians, Haeres Regni ubicunque natus semper est Gentilis suo Regno;</hi> the Heir of the Crown, where<g ref="char:EOLhyphen"/>soever he is born, is accounted to be a Native to that Crown he is born to; it is impossible that a King that hath di<g ref="char:EOLhyphen"/>vers principalities, should be born in them all. And he could not but know that the Kingdom of <hi>Scotland</hi> was once acknowledged a fiduciary Kingdom to the Crown of <hi>England,</hi> till a States-man here of the like stamp, in the mi<g ref="char:EOLhyphen"/>nority of <hi>Edward</hi> the third, delivered up again to the <hi>Scots</hi> for his own pri<g ref="char:EOLhyphen"/>vate respects the Charter, called <hi>Rag<g ref="char:EOLhyphen"/>man,</hi> which in all probability if he had not done, it had saved the lives of a million of men of both Nations, and
+<pb n="42" facs="tcp:118308:32"/> we had long ago been united together in that amicability that we are now knit in. It is far amiss, when men do prostitute those parts and abilities that God hath given them, like <hi>Tertullus</hi> the Orator, to maintain every wicked course that may be advantagious to them, or to suppress truth. But I question not but our own Stem Royal, (though here but meanly delineated) will make it appear to all, not wilfully prejudicate, that our Kings of <hi>England</hi> are more intirely our own, than any o<g ref="char:EOLhyphen"/>ther Kingdom in <hi>Christendom</hi> can chal<g ref="char:EOLhyphen"/>lenge theirs to be. What strangers in<g ref="char:EOLhyphen"/>deed might have come to be our Kings. by the frantick proceedings of those State-Empericks that lately tampered in the new moulding of our Govern<g ref="char:EOLhyphen"/>ment, as it was the fear of all wise men that sighed to behold it; so I hope it will be the object of our thankfulness to God all the dayes of our lives, for his divine and timely ptevention, be<g ref="char:EOLhyphen"/>yond the hopes of the best of us.</p>
+            <pb n="43" facs="tcp:118308:32"/>
+            <p>But <hi>Gloria Deo in excelsis;</hi> as it was foretold of that good young King of <hi>Israel</hi> in the sense of the History, and of the blessed Saviour of the world in the sense of the Mystery, by the Pro<g ref="char:EOLhyphen"/>phet <hi>Isaiah, Unto us a Childe is born, and unto us a Son is given, and his Name shall be called Wonderful, the Prince of Peace:</hi> So God hath mercifully brought unto us again this Royal Childe of Peace and Admiration; and I hope we shall learn our selves, and our children after us, from the evils that we have suffered, and the imminent dangers we have escaped, <hi>to fear God and the King, and not to meddle with them that are given to change;</hi> nor to doat upon unexperi<g ref="char:EOLhyphen"/>enced and unpractical, whimsies, be<g ref="char:EOLhyphen"/>cause some pragmatically can set them off with some finess of invention; but willingly to continue and rejoyce in that best of Governments which God hath blessed us again withall, whether we would or no.</p>
+            <p>The Administration of a Democracy
+<pb n="44" facs="tcp:118308:33"/> (at the best of it) can but be in the proportion Arithmetical, and the pow<g ref="char:EOLhyphen"/>er so much in every body, that it quick<g ref="char:EOLhyphen"/>ly cometh to be in no body, but endeth in Anarchy; that of an Aristocracy, (if there were ever a Government in the world that could be properly so called <hi>undequaque</hi>) in the proportion being Geometrical; one order of men are but like Cyphers, only serving to make the other that is above them the greater, and they as subservient to the next, that in a small time it must needs evade in<g ref="char:EOLhyphen"/>to Tyranny or Faction.</p>
+            <p>But the stable condition of Monar<g ref="char:EOLhyphen"/>chy (as <hi>Johannes Bodinus</hi> admirably, judiciously, and learnedly observeth) acteth in a proportion Harmonical, which like divers notes in musick re<g ref="char:EOLhyphen"/>ceive harmony one from the other; see the several conditions of men sweetly do conduce to the extasie and firmation of the whole; the King standing like the Center in the middle of the circle, and every subject, from the highest to
+<pb n="45" facs="tcp:118308:33"/> the meanest, in respect of any domini<g ref="char:EOLhyphen"/>on over his fellow-subjects, like degrees in the circumference, stand equally distant, which if truly considered, and with right judgement is weighed, is the greatest liberty, and truest happiness in the World.</p>
+            <q>
+               <l>— Neque enim libertas gratior ulla est,</l>
+               <l>Quam sub Rege pio.</l>
+            </q>
+         </div>
+         <div type="list_of_names">
+            <pb n="46" facs="tcp:118308:34"/>
+            <head>Monogramma Regum Anglorum, Si<g ref="char:EOLhyphen"/>ve Memoriale Chronicon.</head>
+            <list>
+               <item>
+                  <hi>Gulielm. Con.</hi> Victor Neustriacis Guliel<g ref="char:EOLhyphen"/>mus subjugat Anglos;</item>
+               <item>
+                  <hi>Gulielm. Ruf.</hi> Quosque pater vicit, populatur Filius Agros.</item>
+               <item>
+                  <hi>Hen. 1.</hi> Beuclark aequus erat populo, Fratri sed iniquus.</item>
+               <item>
+                  <hi>Stephan.</hi> Usurpat Stephanus <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> variantibus armis.</item>
+               <item>
+                  <hi>Hen. 2.</hi> Rex foelix, pater infoelix, Henrice secunde.</item>
+               <item>
+                  <hi>Rich. 1.</hi> Palestina decus clarum dat corde-Leoni.</item>
+               <item>
+                  <hi>Joh.</hi> Rex malus est, pejor Grex, pes<g ref="char:EOLhyphen"/>sima Nobilitasque.</item>
+               <item>
+                  <hi>Hen. 3.</hi> Henricus magnam dat magno sanguine Cbartam.</item>
+               <item>
+                  <hi>Edv. 1.</hi> Belliger in Scotos Gallosque Edvarde Triumphas.</item>
+               <item>
+                  <hi>Ed. 2.</hi> Carnarvan nimio cecidit Ga<g ref="char:EOLhyphen"/>nemedis amore.</item>
+               <pb n="47" facs="tcp:118308:34"/>
+               <item>
+                  <hi>Ed. 3.</hi> Edvardus Pater, &amp; Gnatus Duo fulmina Belli.</item>
+               <item>
+                  <hi>Rich. 2.</hi> Parcere nec Stimulis, nec Lo<g ref="char:EOLhyphen"/>ris noverit uti.</item>
+               <item>
+                  <hi>Hen. 4.</hi> Sanguine quaesitum moderatur sanguine Regnum.</item>
+               <item>
+                  <hi>Hen. 5.</hi> Gallorum terror, Rex Regum, Gloria mundi.</item>
+               <item>
+                  <hi>Hen. 6.</hi> Rex pius, at debilis, quem per<g ref="char:EOLhyphen"/>dit culpa parentum.</item>
+               <item>
+                  <hi>Ed. 4.</hi> Mars, Venus &amp; Bromius tibi Numina Plantagenette.</item>
+               <item>
+                  <hi>Ed. 5.</hi> Infoelix Quintus teneris jugu<g ref="char:EOLhyphen"/>latur in annis.</item>
+               <item>
+                  <hi>Rich. 3.</hi> Gibbus, Monstrosus, Populoque Deoque Perosus.</item>
+               <item>
+                  <hi>Hen. 7.</hi> Magnus Consiliis &amp; magnus septimus Armis.</item>
+               <item>
+                  <hi>Hen. 8.</hi> Optimus octavus Princeps &amp; pessimus esto.</item>
+               <item>
+                  <hi>Ed. 6.</hi> Edvardus sextus nulli pietate secundus.</item>
+               <item>
+                  <hi>Maria.</hi> Martyrio multos (Maria) Co<g ref="char:EOLhyphen"/>rona Coronat.</item>
+               <pb n="48" facs="tcp:118308:35"/>
+               <item>
+                  <hi>Elizab.</hi> Multae praeclarae, cunctis excel<g ref="char:EOLhyphen"/>lit Eliza.</item>
+               <item>
+                  <hi>Jacobus.</hi> Pacificus doctusque Jacob, So<g ref="char:EOLhyphen"/>lomonque secundus.</item>
+               <item>
+                  <hi>Carol. 1.</hi> Ingratus populus non tali est Principe dignus.</item>
+               <item>
+                  <hi>Carol. 2.</hi> Assequeris summum, sequeris si Carole patrem.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
